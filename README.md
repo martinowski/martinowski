@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @martinowski
+-I have been studying Programming since 2021. I am currently studying ADS at a college and studying some other programming languages on the side. Ex: C#, JavaScript, React
